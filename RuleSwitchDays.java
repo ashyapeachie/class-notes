@@ -1,7 +1,8 @@
 /**
  * author: me
  * filename:
- * description: this program will give the user the number of letters in a day once the user enters
+ * description: this program builds off of my learned knowledge of the switch branching statement in Java
+ * this program will give the user the number of letters in a day once the user enters
  * a day of the week and practices the rule switch statement
  */
 
