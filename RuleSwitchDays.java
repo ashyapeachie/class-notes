@@ -6,6 +6,7 @@
  * a day of the week and practices the rule switch statement
  */
 
+package RuleSwitchDays;
 import java.util.Scanner;
 
 public class RuleSwitchDays {
